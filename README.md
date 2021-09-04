@@ -1,4 +1,4 @@
-# ReactJS 영화 웹 사이트 제작
+# ReactJS - Movie App 
 
 ## Start
 > npm start
